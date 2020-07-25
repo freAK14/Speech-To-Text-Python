@@ -1,5 +1,5 @@
 # Speech-To-Text-Python
-A very simple yet useful python tool using very few lines of code to convert speech into text.
+A very simple yet useful python tool using just 10 lines of code to convert speech into text.
 
 
 ## Requirements:

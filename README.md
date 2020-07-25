@@ -7,7 +7,7 @@ A very simple yet useful python tool using just 10 lines of code to convert spee
 * SpeechRecognition 3.8.1
 
 ## How to use:
-* Fisrt clone this repository
+* First clone this repository
 * Run the following command where you cloned this
 ```
 python speechtotext.py
